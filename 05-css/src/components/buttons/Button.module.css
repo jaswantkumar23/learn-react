@@ -1,0 +1,7 @@
+.btn{
+    background-color: rgb(140, 147, 173);
+    width: fit-content;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+}
