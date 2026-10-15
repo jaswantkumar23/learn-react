@@ -96,10 +96,10 @@ const App = () => {
                   {<X />}
                 </div>
 
-                <h3 className="leading-tight font-bold relative -top-1">
+                <h3 className="relative -top-1 text-sm font-bold leading-6.25">
                   {props.name}
                 </h3>
-                <p className="overflow-y-auto-auto scrollbar-none whitespace-normal break-word text-gray-700">
+                <p className=" relative -top-1 whitespace-pre-wrap wrap-break-word text-sm leading-6.25 text-gray-700">
                   {props.detail}
                 </p>
               </div>
