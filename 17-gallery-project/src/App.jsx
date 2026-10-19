@@ -77,7 +77,7 @@ function App() {
           value={search}
           onChange={(e) => {
             setSearch(e.target.value);
-            console.log(e.target.value);
+            console.log(e.target.value)
           }}
           className="w-64 rounded-lg bg-white px-4 py-2 text-black outline-none"
         />
